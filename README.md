@@ -51,6 +51,7 @@ Player 1, enter the orientation of your Battleship, which is 4 long: horizontal
 Player 1, enter the starting location for your Battleship, which is 4 long: 1 1
 
 Firing Example:
+
 Player 1's Firing Board
 * * * * * 
 * * O * * 
